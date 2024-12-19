@@ -1,8 +1,7 @@
 # 🌟 Alvish Prasla | Aspiring Software Developer 🚀  
 
 **👨‍💻 Computer Science Student @ University of Calgary**  
-**🔒 Specializing in Software Development & Cybersecurity**  
-**💼 Experienced in Retail Management, Business Strategy, and Sales**  
+**🔒 Specializing in Software Development & Data Science** 
 
 ---
 
@@ -19,15 +18,16 @@
 An open-source, highly tailored app for iron retail businesses using **Java**, **SQLite**, and **Java Swing**.  
 [➡️ View Project](https://github.com/alvishprasla11/StockManagementSoftwareForIronRetailBusinesses)  
 
-### 📊 Business Intelligence Solutions  
-Developed strategies to optimize retail operations using data analytics and visualization tools.
+### 📊 Time assignment algorithm for employees in the retail industry  
+An open-source time assignment algorithm to optimize retail work hour allocation, built with Java.
+[➡️ View Project](https://github.com/alvishprasla11/StockManagementSoftwareForIronRetailBusinesses)  
 
 ---
 
 ## 🌐 Socials & Links  
 - 🌟 [GitHub Projects](https://github.com/alvishprasla11)  
-- 💬 [LinkedIn Profile](https://linkedin.com/in/alvishprasla)  
-- 📧 **Email:** [alvishprasla@example.com](mailto:alvishprasla@example.com)  
+- 💬 [LinkedIn Profile](https://linkedin.com/in/alvish-prasla)  
+- 📧 **Email:** [alvish.prasla@gmail.com](mailto:alvish.prasla@gmail.com)  
 
 ---
 
